@@ -1,0 +1,5 @@
+{
+  "name": "PitchPerfect AI",
+  "description": "Generate high-quality action sports imagery using Google's Imagen 3.0 model. Visualize athletes in dynamic scenarios with simple text prompts.",
+  "requestFramePermissions": []
+}
