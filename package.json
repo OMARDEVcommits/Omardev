@@ -1,6 +1,7 @@
 {
   "name": "pitchperfect-ai",
   "private": true,
+  "homepage": "https://legend.github.io/my-react-app"
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -20,6 +21,6 @@
     "vite": "^6.2.0"
   }
 }
-"homepage": "https://your-username.github.io/OMARDEVcommits"
+
 
 
